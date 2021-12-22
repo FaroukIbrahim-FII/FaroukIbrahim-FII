@@ -9,6 +9,8 @@ Here are some ideas to get you started:
 - 📅 **With five in Planning & Projects Management**
 - 🌱 **I’m currently learning to become a full stack developer.**
 
+![](https://visitor-badge.glitch.me/badge?page_id=FaroukIbrahim-FII)
+
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=FaroukIbrahim-FII)](https://github.com/anuraghazra/github-readme-stats)
 
 ![info2](https://github-readme-stats.vercel.app/api/top-langs/?username=FaroukIbrahim-FII&layout=compact)
