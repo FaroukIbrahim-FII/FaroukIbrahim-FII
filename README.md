@@ -11,6 +11,7 @@ Here are some ideas to get you started:
 
 
 ![](https://visitor-badge.glitch.me/badge?page_id=FaroukIbrahim-FII)
+<a href="https://app.daily.dev/Farouk"><img align="right" src="https://api.daily.dev/devcards/48489a8652f744c8963c73301b30326a.png?r=lzv" width="400" alt="Farouk Ibrahim's Dev Card"/></a>
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=FaroukIbrahim-FII)](https://github.com/anuraghazra/github-readme-stats)
 ![info2](https://github-readme-stats.vercel.app/api/top-langs/?username=FaroukIbrahim-FII&layout=compact)
