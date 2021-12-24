@@ -12,12 +12,18 @@ Here are some ideas to get you started:
 ![](https://visitor-badge.glitch.me/badge?page_id=FaroukIbrahim-FII)
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=FaroukIbrahim-FII)](https://github.com/anuraghazra/github-readme-stats)
-
 ![info2](https://github-readme-stats.vercel.app/api/top-langs/?username=FaroukIbrahim-FII&layout=compact)
 
 ### Connect with me:
-* [Email](farouk94i@yahoo.com)
-* [LinkedIn](https://www.linkedin.com/in/faroukibrahim/)
+
+[![Email](https://img.shields.io/badge/-Email-purple?style=flat&logo=Yahoo&logoColor=white)](mailto:farouk94i@yahoo.com)
+[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/faroukibrahim/)
+[![Slack](https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white)](https://ltuc-asac.slack.com/team/U024VGEBA11)
+[![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discordapp.com/users/7227/)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=flat&logo=whatsapp&logoColor=white)](https://wa.me/00962796914540)
+[![Resume](https://img.shields.io/badge/resume-blue?style=flat&logo=cv&logoColor=white)](https://drive.google.com/file/d/1u1AIWyf2vNhH_LeQmbWHfEgSNQIZo5JC/view?usp=sharing)
+
+
 <br/>
 
 ### Languages and Tools:
