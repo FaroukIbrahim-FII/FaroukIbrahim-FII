@@ -43,16 +43,18 @@ Here are some ideas to get you started:
 <img align="left" alt="JS" width="150px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/2048px-Unofficial_JavaScript_logo_2.svg.png" />
 <img align="left" alt="Next" width="150px" src="https://camo.githubusercontent.com/c457309037aabdce151cc0e197d6db98234a31636ef41f2cc1c339832fe20de3/68747470733a2f2f63646e2e61757468302e636f6d2f626c6f672f6c6f676f732f6e6578746a732d6c6f676f2e706e67" />
 <img align="left" alt="HTML" width="150px" height="150px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/512px-HTML5_logo_and_wordmark.svg.png" />
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Sass_Logo_Color.svg/1280px-Sass_Logo_Color.svg.png" alt="SCSS" width ="150px">
 <img align="left" alt="CSS" width="120px" height="150px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/1200px-CSS3_logo_and_wordmark.svg.png" />
 <img align="left" alt="Node" width="150px" src="https://miro.medium.com/max/560/1*hAAm71eC0mIg3RIA6S4-DQ.png" />
 <img align="left" alt="Express" width="150px" src="https://expressjs.com/images/express-facebook-share.png" />
 <img align="left" alt="Express" width="150px" src="https://cdn.icon-icons.com/icons2/2415/PNG/512/bootstrap_plain_wordmark_logo_icon_146620.png" />
 <img align="left" alt="React" width="150px" src="https://northell.design/wp-content/uploads/2021/11/1pHsEux2h8wc3-yNCQNwz0A.jpeg" />
+<img src="https://www.unixmen.com/wp-content/uploads/2017/07/postgresql-logo.png" alt="PostGresQL" width ="150px">
 <img src="https://cdn.buttercms.com/6IOYf3uRJMGxcpXMTswN" alt="mongo" width ="150px">
 <img src="https://soshace.com/wp-content/uploads/2021/01/879-png-3.png" alt="Django" width ="150px">
 <img src="https://www.docker.com/sites/default/files/d8/2019-07/vertical-logo-monochromatic.png" alt="Docker" width ="150px">
 <img src="https://logowik.com/content/uploads/images/heroku8748.jpg" alt="Heroku" width ="150px">
 <img src="https://cms-assets.tutsplus.com/uploads/users/34/syllabuses/1160/preview_image/chartjs-tutsplus.jpg" alt="Heroku" width ="150px">
-<img src="https://www.unixmen.com/wp-content/uploads/2017/07/postgresql-logo.png" alt="PostGresQL" width ="150px">
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Sass_Logo_Color.svg/1280px-Sass_Logo_Color.svg.png" alt="SCSS" width ="150px">
+
+
 
