@@ -45,7 +45,7 @@ Here are some ideas to get you started:
 <img align="left" alt="CSS" width="120px" height="150px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/1200px-CSS3_logo_and_wordmark.svg.png" />
 <img align="left" alt="Node" width="150px" src="https://miro.medium.com/max/560/1*hAAm71eC0mIg3RIA6S4-DQ.png" />
 <img align="left" alt="Express" width="150px" src="https://expressjs.com/images/express-facebook-share.png" />
-
+<img align="left" alt="Express" width="150px" src="https://cdn.icon-icons.com/icons2/2415/PNG/512/bootstrap_plain_wordmark_logo_icon_146620.png" />
 <img align="left" alt="React" width="150px" src="https://northell.design/wp-content/uploads/2021/11/1pHsEux2h8wc3-yNCQNwz0A.jpeg" />
 <img src="https://cdn.buttercms.com/6IOYf3uRJMGxcpXMTswN" alt="mongo" width ="150px">
-<img src="https://soshace.com/wp-content/uploads/2021/01/879-png-3.png" alt="mongo" width ="150px">
+<img src="https://soshace.com/wp-content/uploads/2021/01/879-png-3.png" alt="Django" width ="150px">
