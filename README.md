@@ -33,3 +33,5 @@ Here are some ideas to get you started:
 
 <img align="left" alt="React" width="150px" src="https://northell.design/wp-content/uploads/2021/11/1pHsEux2h8wc3-yNCQNwz0A.jpeg" />
 <img src="https://cdn.buttercms.com/6IOYf3uRJMGxcpXMTswN" alt="mongo" width ="150px">
+<img src="https://static.djangoproject.com/img/logos/django-logo-negative.png" alt="mongo" width ="150px">
+<img src="https://miro.medium.com/max/680/0*2O9BE2NAWnS1T821." alt="mongo" width ="150px">
