@@ -16,12 +16,17 @@ Here are some ideas to get you started:
 
 ### Connect with me:
 
-[![Email](https://img.shields.io/badge/-Email-purple?style=flat&logo=Yahoo&logoColor=white)](mailto:farouk94i@yahoo.com)
-[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/faroukibrahim/)
-[![Slack](https://img.shields.io/badge/Slack-4A154B?style=flat&logo=slack&logoColor=white)](https://ltuc-asac.slack.com/team/U024VGEBA11)
-[![Discord](https://img.shields.io/badge/Discord-7289DA?style=flat&logo=discord&logoColor=white)](https://discordapp.com/users/7227/)
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=flat&logo=whatsapp&logoColor=white)](https://wa.me/00962796914540)
-[![Resume](https://img.shields.io/badge/resume-blue?style=flat&logo=cv&logoColor=white)](https://drive.google.com/file/d/1u1AIWyf2vNhH_LeQmbWHfEgSNQIZo5JC/view?usp=sharing)
+* [![Email](https://img.shields.io/badge/-Email-purple?style=flat&logo=Yahoo&logoColor=white)](mailto:farouk94i@yahoo.com)
+
+* [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/faroukibrahim/)
+
+* [![Slack](https://img.shields.io/badge/Slack-4A154B?style=flat&logo=slack&logoColor=white)](https://ltuc-asac.slack.com/team/U024VGEBA11)
+
+* [![Discord](https://img.shields.io/badge/Discord-7289DA?style=flat&logo=discord&logoColor=white)](https://discordapp.com/users/7227/)
+
+* [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=flat&logo=whatsapp&logoColor=white)](https://wa.me/00962796914540)
+
+* [![Resume](https://img.shields.io/badge/resume-blue?style=flat&logo=cv&logoColor=white)](https://drive.google.com/file/d/1u1AIWyf2vNhH_LeQmbWHfEgSNQIZo5JC/view?usp=sharing)
 
 
 <br/>
