@@ -7,7 +7,7 @@ Here are some ideas to get you started:
 -->
 - 👷 **I Have a background in Civil Engineering**
 - 📅 **With five in Planning & Projects Management**
-- 🌱 **I’m currently learning to become a full stack developer.**
+- 🌱 **I’m currently learning C#, Unity and Spine.**
 
 
 ![](https://visitor-badge.glitch.me/badge?page_id=FaroukIbrahim-FII)
@@ -50,3 +50,9 @@ Here are some ideas to get you started:
 <img align="left" alt="React" width="150px" src="https://northell.design/wp-content/uploads/2021/11/1pHsEux2h8wc3-yNCQNwz0A.jpeg" />
 <img src="https://cdn.buttercms.com/6IOYf3uRJMGxcpXMTswN" alt="mongo" width ="150px">
 <img src="https://soshace.com/wp-content/uploads/2021/01/879-png-3.png" alt="Django" width ="150px">
+<img src="https://www.docker.com/sites/default/files/d8/2019-07/vertical-logo-monochromatic.png" alt="Docker" width ="150px">
+<img src="https://logowik.com/content/uploads/images/heroku8748.jpg" alt="Heroku" width ="150px">
+<img src="https://cms-assets.tutsplus.com/uploads/users/34/syllabuses/1160/preview_image/chartjs-tutsplus.jpg" alt="Heroku" width ="150px">
+<img src="https://www.unixmen.com/wp-content/uploads/2017/07/postgresql-logo.png" alt="PostGresQL" width ="150px">
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Sass_Logo_Color.svg/1280px-Sass_Logo_Color.svg.png" alt="SCSS" width ="150px">
+
