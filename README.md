@@ -29,8 +29,6 @@ Here are some ideas to get you started:
 * [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=flat&logo=whatsapp&logoColor=white)](https://wa.me/00962796914540)
 
 * [![Resume](https://img.shields.io/badge/resume-blue?style=flat&logo=cv&logoColor=white)](https://drive.google.com/file/d/1u1AIWyf2vNhH_LeQmbWHfEgSNQIZo5JC/view?usp=sharing)
-
-
 <br/>
 
 ### Languages and Tools:
