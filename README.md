@@ -10,6 +10,7 @@ Here are some ideas to get you started:
 - 🌱 **I’m currently learning C#, Unity and Spine.**
 
 
+
 ![](https://visitor-badge.glitch.me/badge?page_id=FaroukIbrahim-FII)
 <a href="https://app.daily.dev/Farouk"><img align="right" src="https://api.daily.dev/devcards/48489a8652f744c8963c73301b30326a.png?r=lzv" width="400" alt="Farouk Ibrahim's Dev Card"/></a>
 
