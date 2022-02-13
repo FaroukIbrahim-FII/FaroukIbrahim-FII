@@ -7,7 +7,7 @@ Here are some ideas to get you started:
 -->
 - 👷 **I Have a background in Civil Engineering**
 - 📅 **With five in Planning & Projects Management**
-- 🌱 **I’m currently learning C#, Unity and Spine.**
+<!-- - 🌱 **I’m currently learning C#, Unity and Spine.** -->
 
 
 ![](https://visitor-badge.glitch.me/badge?page_id=FaroukIbrahim-FII)
